@@ -1,0 +1,1 @@
+REPO for some previous projects I've worked on for the SIMR application. This repo mostly consists of standalone projects, with some from previous research experiences. This repo does not contain most of the work I've done for private organizations as that is private/protected by an NDA I signed. 
